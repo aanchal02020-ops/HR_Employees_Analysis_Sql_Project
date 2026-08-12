@@ -29,17 +29,29 @@ serial_no ====================  Unique serial number for each record
 employee_id =================== Unique ID assigned to each employee
 
 name ========================== Name of the employee
+
 department ==================== Department in which the employee works
+
 job_role ====================== Job role of the employee
+
 performance_score ============= Overall performance score of the employee
+
 kpi_score ===================== KPI score of the employee
-attendance ==================== Employee attendance percentage
+
+attendance ==================== Employee attendance percentage.
+
 peer_rating =================== Rating given by peers
+
 task_completion =============== Percentage of tasks completed
+
 work_hours_logged ============= Total work hours logged by the employee
+
 manager_feedback ============== Manager's feedback score
+
 training_hours ================ Number of training hours completed
+
 promotion_eligibility ========= Indicates whether the employee is eligible for promotion
+
 promotion_eligibility ========= Indicates whether the employee is eligible for promotion
 
 # Tools & Technologies
