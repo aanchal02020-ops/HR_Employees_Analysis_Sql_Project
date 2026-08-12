@@ -25,7 +25,9 @@ The dataset contains employee performance, productivity, feedback, training, and
 Columns
 Description
 serial_no ====================  Unique serial number for each record
+
 employee_id =================== Unique ID assigned to each employee
+
 name ========================== Name of the employee
 department ==================== Department in which the employee works
 job_role ====================== Job role of the employee
